@@ -15,6 +15,7 @@ p {
 }
 
 .aboutme {
-   border: 2px dotted;
+   border-style: 2px dotted;
+   border-width: 100px;
 }
 
