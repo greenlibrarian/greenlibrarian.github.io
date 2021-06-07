@@ -15,8 +15,9 @@ p {
 }
 
 .aboutme {
-   border-style: 2px dotted;
-   border-width: 100px;
+   border: 2px dotted;
+   width: 100px;
+   height: 100px;
 }
 
 ul {
