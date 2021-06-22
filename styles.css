@@ -29,7 +29,7 @@ p {
 }
 
 .background {
-   background-image: /images/clouds.jpg ("clouds.jpg");
+   background-image: images/clouds.jpg ("clouds.jpg");
 }
 
 .image1 {
