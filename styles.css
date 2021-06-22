@@ -28,6 +28,10 @@ p {
    border-radius: 5px;
 }
 
+.background {
+   background-image: ;
+}
+
 ul {
    list-style-type: square;
 }
