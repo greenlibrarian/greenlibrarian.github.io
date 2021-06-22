@@ -29,7 +29,8 @@ p {
 }
 
 .background {
-   background-image: https://github.com/greenlibrarian/greenlibrarian.github.io/blob/main/images/clouds.jpg("clouds.jpg");
+   background-color: lightgrey;
+   opacity: 0,3;
 }
 
 .image1 {
