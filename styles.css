@@ -32,6 +32,16 @@ p {
    background-image: url ("clouds.jpg");
 }
 
+.image1 {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.image2 {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
 ul {
    list-style-type: square;
 }
