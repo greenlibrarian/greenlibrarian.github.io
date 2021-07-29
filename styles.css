@@ -70,12 +70,15 @@ ol {
 .header {
    background-color: #cdcdcd;
    text-align: center;
-   padding: 15px;
+   padding-right: 5px;
+   padding-left: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
 }
    
  .footer {
     background-color: #c0d9cb;
-    padding: 15px;
+    padding: 10px;
 }
       
  .section {
