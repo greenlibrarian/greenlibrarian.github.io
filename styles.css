@@ -62,9 +62,8 @@ ol {
 
 .aside {
    width: 30%; 
-   padding-left: 15px;
-   margin-left: 15px;
    float: left;
+   padding: 15px;
    background-color:#c0cfd9;
 }
 
