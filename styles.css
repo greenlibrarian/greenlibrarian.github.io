@@ -64,7 +64,7 @@ ol {
    width: 30%; 
    padding-left: 15px;
    margin-left: 15px;
-   float: right;
+   float: left;
    background-color:#c0cfd9;
 }
 
@@ -84,11 +84,15 @@ ol {
 }
       
  .section {
+    width: 70%;
+    float:left;
     background-color: #d9c0c2;
     padding: 15px;
  }
       
   .article {
+     width: 70%;
+     float: left;
      background-color: #c0d9d8;
      padding: 15px
  }
