@@ -43,9 +43,7 @@ p {
 }
 
 .image2 {
-   margin-top: 10px;
-   margin-bottom: 10px;
-}
+   float: right;
 
 .greengold {
    margin-left:250px;
