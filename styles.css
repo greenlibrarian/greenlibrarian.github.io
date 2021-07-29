@@ -7,6 +7,12 @@ body {
    color: #FFFFFF;
 }
 
+body {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}  
+
 h1 {
    font-size: 30px;
 }
