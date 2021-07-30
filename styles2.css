@@ -69,9 +69,15 @@ ol {
    padding-bottom: 10px;
 }
 
- nav {
+ #navvertical {
     width: 30%;
     float:left;
+    background-color: #ffcccc;
+    text-align: center;
+    padding: 8px;
+}
+
+#navhorizontal {
     background-color: #ffcccc;
     text-align: center;
     padding: 8px;
