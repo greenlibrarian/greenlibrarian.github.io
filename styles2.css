@@ -112,5 +112,9 @@ nav a {
     padding: 10px;
     clear: both; 
 }
+
+a:hover {
+   color: #ff0000; 
+}
     
  
