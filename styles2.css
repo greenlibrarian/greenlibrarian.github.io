@@ -70,9 +70,11 @@ ol {
 }
 
  nav {
-     background-color: #ffcccc;
-     text-align: center;
-     padding: 8px
+    width: 30%;
+    float:left;
+    background-color: #ffcccc;
+    text-align: center;
+    padding: 8px;
 }
 
 nav ul {
@@ -85,20 +87,20 @@ nav a {
 
 #section {
     width: 70%;
-    float: left;
+    float: right;
     background-color: #d9c0c2;
     padding: 15px;
  }
       
   #article {
      width: 70%;
-     float: left;
+     float: right;
      background-color: #c0d9d8;
      padding: 15px
  }
 
 #aside {
-   width: 30%; 
+   width: 70%; 
    float: right;
    padding: 15px;
    background-color:#c0cfd9;
