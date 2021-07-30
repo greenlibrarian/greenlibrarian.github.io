@@ -64,7 +64,8 @@ p {
 }
 
 #navhorizontal a {
-   text-decoration: none;
+  text-decoration: none;
+  padding: 10px;
 }
 
  #navvertical {
@@ -110,6 +111,10 @@ p {
     text-align: center;
     padding: 10px;
     clear: both; 
+}
+
+#footer p {
+  padding: 10px;
 }
 
 a:hover {
