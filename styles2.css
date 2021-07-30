@@ -69,10 +69,18 @@ ol {
    padding-bottom: 10px;
 }
 
- #nav {
+ nav {
      background-color: #ffcccc;
      text-align: center;
      padding: 8px
+}
+
+nav ul {
+   list-style-type: none;
+}
+
+nav a {
+   text-decoration: none;
 }
 
 #section {
