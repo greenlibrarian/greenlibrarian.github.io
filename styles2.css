@@ -5,7 +5,6 @@
 body {
    background-color: #d9d7c0;
    opacity: 0,3;
-   color: #FFFFFF;
    width: 90%;
    margin-left: auto;
    margin-right: auto;
@@ -69,7 +68,7 @@ p {
 }
 
  #navvertical {
-    width: 30%;
+    width: 20%;
     float: left;
     background-color: #ffcccc;
     text-align: center;
@@ -86,21 +85,21 @@ p {
 }
 
 #section {
-    width: 70%;
+    width: 80%;
     float: right;
     background-color: #d9c0c2;
     padding: 15px;
  }
       
   #article {
-     width: 70%;
+     width: 80%;
      float: right;
      background-color: #c0d9d8;
      padding: 15px
  }
 
 #aside {
-   width: 70%; 
+   width: 80%; 
    float: right;
    padding: 15px;
    background-color:#c0cfd9;
