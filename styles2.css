@@ -60,7 +60,7 @@ ol {
    list-style-type: lower-alpha;
 }
 
-.header {
+#header {
    background-color: #cdcdcd;
    text-align: center;
    padding-right: 5px;
