@@ -4,74 +4,53 @@ body {
 }
 
 .header {
-   border: 3px solid;
-   padding: 30px;
+   background-color: #1CEBEB;
 }
 
 .counter {
-   border: 3px solid;
-   padding: 30px;
+   background-color: #F687CF;
 }
 
 .nav {
-   border: 3px solid;
-   padding: 30px;
+   background-color: #87F6C5;
 }
 
 .footer {
-   border: 3px solid;
-   padding: 30px;
-   margin-top: 20px;
+   background-color: #F6E787;
 }
 
 #banner {
-   border: 3px solid;
-   padding: 30px;
-   margin-bottom: 30px;
+   background-color: #BCBCEE;
 }
 
 #introduction {
-   border: 3px solid;
-   padding: 30px;
-   margin: 30px;
+   background-color: #C7ADD4;
 }
 
 #hpcon {
-   border: 3px solid;
-   padding: 30px;
+   background-color: #F53EBB;
 }
 
 #swcon {
-   border: 3px solid;
-   padding: 30px;
+   background-color: #D2E4DF;
 }
 
 #hptitle {
-   border: 3px solid;
-   padding: 30px;
-   margin: 30px;
+   background-color: #EEEC68;
 }
 
 #hppicone {
-   border: 3px solid;
-   padding: 30px;
-   margin: 30px;
+   background-color: #C88C99;
 }
 
 #hptext {
-   border: 3px solid;
-   padding: 30px;
-   margin: 30px;
+   background-color: #F73E68;
 }
 
 #hppictwo {
-   border: 3px solid;
-   padding: 30px;
-   margin: 30px;
+   background-color: #2FF5A4;
 }
 
 #hpschedule {
-   border: 3px solid;
-   padding: 30px;
-   margin: 30px;
+   background-color: #9CF5FC;
 }
