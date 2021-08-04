@@ -3,3 +3,37 @@ body {
    color: #000000;
 }
 
+.counter {
+   border: 3px solid;
+   padding: 5px;
+}
+
+.nav {
+   border: 3px solid;
+   padding: 5px;
+}
+
+.footer {
+   border: 3px solid;
+   padding: 5px;
+}
+
+#banner {
+   border: 3px solid;
+   padding: 5px;
+}
+
+#introduction {
+   border: 3px solid;
+   padding: 5px;
+}
+
+#hpcon {
+   border: 3px solid;
+   padding: 5px;
+}
+
+#swcon {
+   border: 3px solid;
+   padding: 5px;
+}
