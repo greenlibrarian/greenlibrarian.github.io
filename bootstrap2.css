@@ -21,16 +21,19 @@ body {
 .footer {
    border: 3px solid;
    padding: 5px;
+   margin-top: 10px;
 }
 
 #banner {
    border: 3px solid;
    padding: 5px;
+   margin-bottom: 10px;
 }
 
 #introduction {
    border: 3px solid;
    padding: 5px;
+   margin: 10px;
 }
 
 #hpcon {
@@ -46,24 +49,29 @@ body {
 #hptitle {
    border: 3px solid;
    padding: 5px;
+   margin: 10px;
 }
 
 #hppicone {
    border: 3px solid;
    padding: 5px;
+   margin: 5px;
 }
 
 #hptext {
    border: 3px solid;
    padding: 5px;
+   margin: 5px;
 }
 
 #hppictwo {
    border: 3px solid;
    padding: 5px;
+   margin: 5px;
 }
 
 #hpschedule {
    border: 3px solid;
    padding: 5px;
+   margin: 5px;
 }
