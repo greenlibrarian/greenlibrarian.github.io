@@ -3,6 +3,11 @@ body {
    color: #000000;
 }
 
+.header {
+   border: 3px solid;
+   padding: 5px;
+}
+
 .counter {
    border: 3px solid;
    padding: 5px;
