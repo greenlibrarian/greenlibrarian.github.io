@@ -5,73 +5,73 @@ body {
 
 .header {
    border: 3px solid;
-   padding: 5px;
+   padding: 30px;
 }
 
 .counter {
    border: 3px solid;
-   padding: 5px;
+   padding: 30px;
 }
 
 .nav {
    border: 3px solid;
-   padding: 5px;
+   padding: 30px;
 }
 
 .footer {
    border: 3px solid;
-   padding: 5px;
-   margin-top: 10px;
+   padding: 30px;
+   margin-top: 20px;
 }
 
 #banner {
    border: 3px solid;
-   padding: 5px;
-   margin-bottom: 10px;
+   padding: 30px;
+   margin-bottom: 30px;
 }
 
 #introduction {
    border: 3px solid;
-   padding: 5px;
-   margin: 10px;
+   padding: 30px;
+   margin: 30px;
 }
 
 #hpcon {
    border: 3px solid;
-   padding: 5px;
+   padding: 30px;
 }
 
 #swcon {
    border: 3px solid;
-   padding: 5px;
+   padding: 30px;
 }
 
 #hptitle {
    border: 3px solid;
-   padding: 5px;
-   margin: 10px;
+   padding: 30px;
+   margin: 30px;
 }
 
 #hppicone {
    border: 3px solid;
-   padding: 5px;
-   margin: 5px;
+   padding: 30px;
+   margin: 30px;
 }
 
 #hptext {
    border: 3px solid;
-   padding: 5px;
-   margin: 5px;
+   padding: 30px;
+   margin: 30px;
 }
 
 #hppictwo {
    border: 3px solid;
-   padding: 5px;
-   margin: 5px;
+   padding: 30px;
+   margin: 30px;
 }
 
 #hpschedule {
    border: 3px solid;
-   padding: 5px;
-   margin: 5px;
+   padding: 30px;
+   margin: 30px;
 }
