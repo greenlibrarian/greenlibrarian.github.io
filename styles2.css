@@ -84,6 +84,11 @@ p {
   padding-bottom: 5px;
 }
 
+#navvertical ul li {
+  padding: 10px; 
+  list-style-type: none;
+}
+
 #section {
     width: 80%;
     float: right;
