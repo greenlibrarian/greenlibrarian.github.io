@@ -3,3 +3,7 @@ body {
    color: #000000;
 }
 
+.img-fluid {
+   max-width: 100%;
+   height: auto;
+}
