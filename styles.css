@@ -112,6 +112,14 @@ aside {
     padding: 10px;
     clear: both;
 }
+
+.author {
+   padding: 10px;
+}
     
- 
+ nav a {
+   text-decoration: none;
+   padding: 10px;
+}
+       
   
