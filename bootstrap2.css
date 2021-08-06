@@ -3,45 +3,6 @@ body {
    color: #000000;
 }
 
-.header {
-   background-color: #1CEBEB;
-   border: 5px solid #000000;
-}
-
-.counter {
-   background-color: #F687CF;
-}
-
-.nav {
-   background-color: #87F6C5;
-}
-
-.footer {
-   background-color: #F6E787;
-}
-
-#hptitle {
-   background-color: #EEEC68;
-}
-
-#hppicone {
-   background-color: #C88C99;
-}
-
-#hptext {
-   background-color: #F73E68;
-}
-
-#hppictwo {
-   padding: 25px;
-   margin: 15px;
-}
-
-#hpschedule {
-   padding: 25px;
-   margin: 15px;
-}
-
 .border {
    border: 5px solid #000000;
 }
