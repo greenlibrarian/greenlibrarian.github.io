@@ -17,7 +17,13 @@ h1 {
 }
 
 #sky {
+   width: 50%;
+   float: left;
+   padding: 15px;
 }
 
 #earth {
+   width: 50%;
+   float: right;
+   padding: 15px;
 }
